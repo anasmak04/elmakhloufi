@@ -4,9 +4,9 @@ Welcome to my blog! This is where I share my thoughts and ideas about various to
 
 # Getting Started
 
-To run my blog on your local machine, you can follow these steps:
+To run my blog on your local machine, you can follow these steps:<br>
 
-Clone the repository: git clone https://github.com/your-username/your-blog.git
-Install dependencies: npm install
-Run the development server: npm run dev
-Open http://localhost:3000 in your web browser to view the blog.
+Clone the repository: git clone https://github.com/your-username/your-blog.git <br><br><br>
+Install dependencies: npm install<br><br><br>
+Run the development server: npm run dev<br><br>
+Open http://localhost:3000 in your web browser to view the blog.<br>
