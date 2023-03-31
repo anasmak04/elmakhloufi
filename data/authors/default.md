@@ -1,9 +1,9 @@
 ---
 name: Anas Elmakhloufi
-avatar: /static/images/avatar.png
+avatar: /static/images/programmer.jpg
 occupation: Software Engineer
 email: anasdev8@gmail.com
-twitter: https://twitter.com/Twitter
+twitter: https://twitter.com/
 linkedin: https://www.linkedin.com
 github: https://github.com/anasmak04
 ---
