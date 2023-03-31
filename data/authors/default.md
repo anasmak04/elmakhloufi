@@ -1,16 +1,15 @@
 ---
-name: Tails Azimuth
+name: Anas Elmakhloufi
 avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
-email: address@yoursite.com
+occupation: Software Engineer
+email: anasdev8@gmail.com
 twitter: https://twitter.com/Twitter
 linkedin: https://www.linkedin.com
-github: https://github.com
+github: https://github.com/anasmak04
 ---
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
+I am a software engineer based in Morocco with a passion for Java programming. I specialize in developing applications using the Spring Boot framework, but I'm also experienced in using JavaScript and Angular to build web applications.
 
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
+Staying up-to-date with the latest industry trends is important to me, which is why I am always exploring new tools and techniques to improve my skills. When I'm not coding, I enjoy traveling and experiencing different cultures, as well as playing football (soccer) to stay active and maintain a healthy lifestyle.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+With a strong passion for technology and a commitment to continuous learning, I strive to create innovative solutions that address real-world problems and make a positive impact on people's lives.
